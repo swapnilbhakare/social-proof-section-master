@@ -2,10 +2,10 @@
 
 :root {
   --VeryDarkMagenta: hsl(300, 38%, 25%);
-  --SoftPink: hsl(333, 80%, 67%);
+  --SoftPink:  hsl(333, 28%, 59%);
 
   --DarkGrayishMagenta: hsl(300, 10%, 19%);
-  --LightGrayishMagenta: hsl(300, 35%, 85%);
+  --LightGrayishMagenta:  hsl(300, 24%, 96%);
   --White: hsl(0, 0%, 100%);
 }
 body {
@@ -88,7 +88,7 @@ h6 {
   position: relative;
   color: var(--SoftPink);
   left: 80px;
-  font-style: italic;
+
   top: -60px;
   margin-left: 10px;
   font-size: 15px;
